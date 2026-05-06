@@ -4,6 +4,8 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
+	site: 'https://thok404.github.io',
+	base: '/RemotePhotoDocs',
 	integrations: [
 		starlight({
 			title: 'My Docs',
