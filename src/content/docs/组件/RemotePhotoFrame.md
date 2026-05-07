@@ -1,4 +1,6 @@
-
+---
+title: RemotePhotoFrame
+---
 
 ![476](Pasted%20image%2020260507140548.png)
 

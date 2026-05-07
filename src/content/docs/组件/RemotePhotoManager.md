@@ -1,3 +1,6 @@
+---
+title: RemotePhotoManager
+---
 ![446](Pasted%20image%2020260507000125.png)
 
 ***RemotePhotoManager***用来管理整个系统的行为，导入画廊JSON、设置加载模式和连接组。==\*一个场景中只能同时存在一个Manager\*==

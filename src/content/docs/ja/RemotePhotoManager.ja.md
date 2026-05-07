@@ -1,3 +1,6 @@
+---
+title: RemotePhotoManager
+---
 # RemotePhotoManager
 
 ![446](Pasted%20image%2020260507000125.png)

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "组件/RemotePhotoButton.md",
+                "file": "ja/RemotePhotoManager.ja.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RemotePhotoButton"
+              "title": "RemotePhotoManager.ja"
             }
           }
         ]
@@ -185,18 +185,33 @@
   },
   "active": "d6745b9ebfa2b462",
   "lastOpenFiles": [
-    "组件/RemotePhotoFrame.md",
-    "组件/RemotePhotoGroup.md",
+    "ja/RemotePhotoGroup.ja.md",
+    "ja/RemotePhotoFrame.ja.md",
+    "ja/RemotePhotoButton.ja.md",
+    "ko/RemotePhotoManager.ko.md",
+    "ko/RemotePhotoGroup.ko.md",
+    "ko/RemotePhotoFrame.ko.md",
+    "ko/RemotePhotoButton.ko.md",
+    "zh/RemotePhotoManager.zh.md",
+    "zh/RemotePhotoGroup.zh.md",
+    "zh/RemotePhotoFrame.zh.md",
+    "zh/RemotePhotoButton.zh.md",
+    "组件/RemotePhotoManager.en.md",
     "组件/RemotePhotoManager.md",
-    "Pasted image 20260507140548.png",
+    "组件/RemotePhotoGroup.en.md",
+    "组件/RemotePhotoGroup.md",
+    "组件/RemotePhotoFrame.en.md",
+    "组件/RemotePhotoFrame.md",
+    "组件/RemotePhotoButton.en.md",
     "组件/RemotePhotoButton.md",
+    "组件/组件目录.md",
     "首页.md",
     "网页JSON工具.md",
     "快速开始.md",
     "常见问题.md",
     "安装.md",
     "使用方法.md",
-    "组件/组件目录.md",
+    "Pasted image 20260507140548.png",
     "Pasted image 20260507121858.png",
     "Pasted image 20260507120138.png",
     "Pasted image 20260507000125.png",
@@ -206,14 +221,8 @@
     "Pasted image 20260507120107.png",
     "Pasted image 20260507015612.png",
     "Pasted image 20260507004041.png",
-    "常见问题 1.md",
-    "常见问题 2.md",
-    "使用方法 1.md",
     "组件",
     "组件.base",
-    "组件",
-    "组件.md",
-    "reference/example.md",
-    "guides/example.md"
+    "组件"
   ]
 }

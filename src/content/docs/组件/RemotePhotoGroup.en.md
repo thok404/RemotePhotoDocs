@@ -1,3 +1,6 @@
+---
+title: RemotePhotoGroup
+---
 # RemotePhotoGroup
 
 ![512](Pasted%20image%2020260507002012.png)

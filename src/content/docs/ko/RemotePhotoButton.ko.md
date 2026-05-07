@@ -1,3 +1,6 @@
+---
+title: RemotePhotoButton
+---
 # RemotePhotoButton
 
 ![562](Pasted%20image%2020260507120138.png)

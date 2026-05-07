@@ -1,3 +1,6 @@
+---
+title: RemotePhotoGroup
+---
 ![512](Pasted%20image%2020260507002012.png)
 
 ***RemotePhotoGroup***用于设定每组的交互权限、按钮冷却时间以及连接相框。
