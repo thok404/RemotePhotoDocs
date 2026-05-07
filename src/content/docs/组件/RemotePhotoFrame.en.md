@@ -3,7 +3,7 @@ title: RemotePhotoFrame
 ---
 # RemotePhotoFrame
 
-![476](../../assets/images/Pasted-image-20260507140548.png)
+![476](../../../assets/images/Pasted-image-20260507140548.png)
 
 RemotePhotoFrame is used to configure a frame and adjust how images are displayed.
 
@@ -21,7 +21,7 @@ RemotePhotoFrame is used to configure a frame and adjust how images are displaye
 | Material Slot | Selects the material slot that displays the image, counted from 0. Usually this does not need to change when there is only one material. |
 | Texture Property | Name of the main texture slot in the material's Shader. Because this project uses its own Shader, this usually stays as `_MainTex`. |
 
-![287](../../assets/images/Pasted-image-20260507010741.png)
+![287](../../../assets/images/Pasted-image-20260507010741.png)
 
 ## Image Display
 

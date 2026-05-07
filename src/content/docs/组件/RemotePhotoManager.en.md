@@ -3,7 +3,7 @@ title: RemotePhotoManager
 ---
 # RemotePhotoManager
 
-![446](../../assets/images/Pasted-image-20260507000125.png)
+![446](../../../assets/images/Pasted-image-20260507000125.png)
 
 RemotePhotoManager controls the whole system: importing the gallery JSON, setting playback mode, setting loading mode, and connecting Groups.
 

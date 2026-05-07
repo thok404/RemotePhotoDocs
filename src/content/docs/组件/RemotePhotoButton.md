@@ -1,14 +1,14 @@
 ---
 title: RemotePhotoButton
 ---
-![562](../../assets/images/Pasted-image-20260507120138.png)
+![562](../../../assets/images/Pasted-image-20260507120138.png)
 
 ***RemotePhotoButton***供预制件按钮使用。
 
 ==**如果你使用外部按钮资产，使用RemotePhotoGroup的TriggerRandom、TriggerPrevious、TriggerNext事件制作这三种按钮，而不是这个组件**==
 
 如果你确实想要使用这个组件构建你自己的按钮，调用本组件的TriggerSelectedAction事件，比如在Button组件的On Click内引用本组件，设置UdonBehaviour.SendCustomEvent为TriggerSelectedAction
-![564](../../assets/images/Pasted-image-20260507121858.png)
+![564](../../../assets/images/Pasted-image-20260507121858.png)
 
 ## 参数
 

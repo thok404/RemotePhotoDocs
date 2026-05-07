@@ -3,7 +3,7 @@ title: RemotePhotoFrame
 ---
 # RemotePhotoFrame
 
-![476](../../assets/images/Pasted-image-20260507140548.png)
+![476](../../../assets/images/Pasted-image-20260507140548.png)
 
 RemotePhotoFrame は、フレームの設定と画像表示の調整に使います。
 
@@ -21,7 +21,7 @@ RemotePhotoFrame は、フレームの設定と画像表示の調整に使いま
 | Material Slot (マテリアルスロット) | 画像を表示するマテリアルスロットを 0 から数えて選びます。マテリアルが 1 つだけの場合、通常は変更不要です。 |
 | Texture Property (テクスチャプロパティ) | マテリアルの Shader 内にあるメインテクスチャスロット名です。このプロジェクト付属 Shader を使うため、通常は `_MainTex` のままにします。 |
 
-![287](../../assets/images/Pasted-image-20260507010741.png)
+![287](../../../assets/images/Pasted-image-20260507010741.png)
 
 ## 画像表示
 

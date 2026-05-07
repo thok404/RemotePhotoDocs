@@ -1,7 +1,7 @@
 ---
 title: RemotePhotoGroup
 ---
-![512](../../assets/images/Pasted-image-20260507002012.png)
+![512](../../../assets/images/Pasted-image-20260507002012.png)
 
 ***RemotePhotoGroup***用于设定每组的交互权限、按钮冷却时间以及连接相框。
 

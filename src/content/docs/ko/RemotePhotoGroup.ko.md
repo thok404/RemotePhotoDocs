@@ -3,7 +3,7 @@ title: RemotePhotoGroup
 ---
 # RemotePhotoGroup
 
-![512](../../assets/images/Pasted-image-20260507002012.png)
+![512](../../../assets/images/Pasted-image-20260507002012.png)
 
 RemotePhotoGroup은 각 Group의 상호작용 권한, 버튼 쿨다운, 연결할 Frame을 설정합니다.
 

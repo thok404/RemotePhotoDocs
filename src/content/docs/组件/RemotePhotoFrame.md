@@ -2,7 +2,7 @@
 title: RemotePhotoFrame
 ---
 
-![476](../../assets/images/Pasted-image-20260507140548.png)
+![476](../../../assets/images/Pasted-image-20260507140548.png)
 
 ***RemotePhotoFrame***用作设定相框和调整图像显示。
 **==\*此组件需要挂载到显示图片的网格物体上\*==   
@@ -12,7 +12,7 @@ title: RemotePhotoFrame
 ## 参数
 
 **Orientation (图片方向池):** 设定当前相框的构图方向，有横向和纵向两个方向，根据相框的实际状态进行选择
-![287](../../assets/images/Pasted-image-20260507010741.png)
+![287](../../../assets/images/Pasted-image-20260507010741.png)
 
 **Material Slot(材质槽位) :** 选择显示图像的材质槽位，从0开始数，通常只有一个材质的情况下不需要变动
 **Texture Property (贴图属性名):** 材质球中的主色贴图槽在Shader中的命名，因为需要使用本项目自带Shader，通常此项保持默认_MainTex

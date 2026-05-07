@@ -3,7 +3,7 @@ title: RemotePhotoGroup
 ---
 # RemotePhotoGroup
 
-![512](../../assets/images/Pasted-image-20260507002012.png)
+![512](../../../assets/images/Pasted-image-20260507002012.png)
 
 RemotePhotoGroup sets the interaction permission, trigger cooldown, and connected Frames for one group.
 
