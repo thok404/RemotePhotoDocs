@@ -3,7 +3,7 @@ title: RemotePhotoFrame
 ---
 # RemotePhotoFrame
 
-![476](../../assets/Pasted-image-20260507140548.png)
+![476](../../assets/images/Pasted-image-20260507140548.png)
 
 RemotePhotoFrame 用于配置一个相框，并调整图片的显示方式。
 
@@ -21,7 +21,7 @@ RemotePhotoFrame 用于配置一个相框，并调整图片的显示方式。
 | Material Slot (材质槽位) | 选择用于显示图片的材质槽位，从 0 开始计数。只有一个材质时通常不需要修改。 |
 | Texture Property (贴图属性名) | 材质 Shader 中主贴图槽的名称。因为本项目使用专用 Shader，通常保持 `_MainTex` 即可。 |
 
-![287](../../assets/Pasted-image-20260507010741.png)
+![287](../../assets/images/Pasted-image-20260507010741.png)
 
 ## 图片显示
 

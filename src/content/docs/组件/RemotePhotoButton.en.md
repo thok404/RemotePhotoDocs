@@ -3,7 +3,7 @@ title: RemotePhotoButton
 ---
 # RemotePhotoButton
 
-![562](../../assets/Pasted-image-20260507120138.png)
+![562](../../assets/images/Pasted-image-20260507120138.png)
 
 RemotePhotoButton is used for prefab buttons.
 
@@ -11,7 +11,7 @@ RemotePhotoButton is used for prefab buttons.
 
 If you want to build your own button with this component anyway, call its `TriggerSelectedAction()` event. For example, reference this component from the Button component's On Click list, and set `UdonBehaviour.SendCustomEvent` to `TriggerSelectedAction`.
 
-![564](../../assets/Pasted-image-20260507121858.png)
+![564](../../assets/images/Pasted-image-20260507121858.png)
 
 ## Parameters
 

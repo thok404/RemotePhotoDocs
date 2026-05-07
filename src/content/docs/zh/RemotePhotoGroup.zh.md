@@ -3,7 +3,7 @@ title: RemotePhotoGroup
 ---
 # RemotePhotoGroup
 
-![512](../../assets/Pasted-image-20260507002012.png)
+![512](../../assets/images/Pasted-image-20260507002012.png)
 
 RemotePhotoGroup 设置一个组的互动权限、触发冷却和连接的 Frames。
 

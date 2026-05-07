@@ -15,7 +15,7 @@
               "state": {
                 "file": "content/docs/组件/RemotePhotoManager.en.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "RemotePhotoManager.en"
@@ -185,7 +185,6 @@
   },
   "active": "535d285ecb99d8e7",
   "lastOpenFiles": [
-    "content/docs/组件/RemotePhotoManager.en.md",
     "content/docs/组件/RemotePhotoManager.md",
     "content/docs/组件/RemotePhotoGroup.en.md",
     "content/docs/组件/RemotePhotoGroup.md",
@@ -207,10 +206,11 @@
     "content/docs/ja/RemotePhotoButton.ja.md",
     "assets/images/Pasted-image-20260507000125.png",
     "assets/images/Pasted-image-20260507002012.png",
-    "assets/images/Pasted-image-20260507140548.png",
-    "assets/images/Pasted-image-20260507120138.png",
-    "assets/images/Pasted-image-20260507121858.png",
     "assets/images/Pasted-image-20260507010741.png",
+    "assets/images/Pasted-image-20260507121858.png",
+    "assets/images/Pasted-image-20260507140548.png",
+    "content/docs/组件/RemotePhotoManager.en.md",
+    "assets/images/Pasted-image-20260507120138.png",
     "assets/houston.webp"
   ]
 }

@@ -3,7 +3,7 @@ title: RemotePhotoButton
 ---
 # RemotePhotoButton
 
-![562](../../assets/Pasted-image-20260507120138.png)
+![562](../../assets/images/Pasted-image-20260507120138.png)
 
 RemotePhotoButton은 프리팹 버튼용 컴포넌트입니다.
 
@@ -11,7 +11,7 @@ RemotePhotoButton은 프리팹 버튼용 컴포넌트입니다.
 
 그래도 이 컴포넌트를 사용하여 버튼을 직접 만들고 싶다면 `TriggerSelectedAction()` 이벤트를 호출합니다.예를 들어 Button 컴포넌트의 On Click에서 이 컴포넌트를 참조하고, `UdonBehaviour.SendCustomEvent`를 `TriggerSelectedAction`으로 설정합니다.
 
-![564](../../assets/Pasted-image-20260507121858.png)
+![564](../../assets/images/Pasted-image-20260507121858.png)
 
 ## 파라미터
 
