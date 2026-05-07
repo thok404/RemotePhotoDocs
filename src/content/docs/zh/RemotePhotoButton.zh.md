@@ -3,7 +3,7 @@ title: RemotePhotoButton
 ---
 # RemotePhotoButton
 
-![562](../../assets/Pasted%20image%2020260507120138.png)
+![562](../../assets/Pasted-image-20260507120138.png)
 
 RemotePhotoButton 用于预制按钮。
 
@@ -11,7 +11,7 @@ RemotePhotoButton 用于预制按钮。
 
 如果仍然想用这个组件制作自己的按钮，请调用它的 `TriggerSelectedAction()` 事件。例如，在 Button 组件的 On Click 列表中引用该组件，并将 `UdonBehaviour.SendCustomEvent` 设置为 `TriggerSelectedAction`。
 
-![564](../../assets/Pasted%20image%2020260507121858.png)
+![564](../../assets/Pasted-image-20260507121858.png)
 
 ## 参数
 

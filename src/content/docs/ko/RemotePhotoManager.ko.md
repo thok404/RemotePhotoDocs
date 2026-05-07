@@ -3,7 +3,7 @@ title: RemotePhotoManager
 ---
 # RemotePhotoManager
 
-![446](../../assets/Pasted%20image%2020260507000125.png)
+![446](../../assets/Pasted-image-20260507000125.png)
 
 RemotePhotoManager는 전체 시스템 동작을 관리합니다. 갤러리 JSON 가져오기, 재생 모드, 로딩 모드, Group 연결을 설정합니다.
 

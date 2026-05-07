@@ -3,7 +3,7 @@ title: RemotePhotoGroup
 ---
 # RemotePhotoGroup
 
-![512](../../assets/Pasted%20image%2020260507002012.png)
+![512](../../assets/Pasted-image-20260507002012.png)
 
 RemotePhotoGroup は、各 Group の操作権限、ボタンクールダウン、接続する Frame を設定します。
 
