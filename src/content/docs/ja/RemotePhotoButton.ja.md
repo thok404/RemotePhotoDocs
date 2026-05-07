@@ -3,7 +3,7 @@ title: RemotePhotoButton
 ---
 # RemotePhotoButton
 
-![562](Pasted%20image%2020260507120138.png)
+![562](../../assets/Pasted%20image%2020260507120138.png)
 
 RemotePhotoButton はプレハブボタン用のコンポーネントです。
 
@@ -11,7 +11,7 @@ RemotePhotoButton はプレハブボタン用のコンポーネントです。
 
 いずれにせよこのコンポーネントを使用して独自のボタンを作成したい場合は、`TriggerSelectedAction()` イベントを呼び出します。たとえば Button コンポーネントの On Click でこのコンポーネントを参照し、`UdonBehaviour.SendCustomEvent` を `TriggerSelectedAction` に設定します。
 
-![564](Pasted%20image%2020260507121858.png)
+![564](../../assets/Pasted%20image%2020260507121858.png)
 
 ## パラメーター
 
