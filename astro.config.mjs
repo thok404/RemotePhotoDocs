@@ -62,7 +62,7 @@ export default defineConfig({
 					},
 				},
 			],
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
+			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/thok404/RemotePhotoSystem' }],
 		}),
 	],
 });
