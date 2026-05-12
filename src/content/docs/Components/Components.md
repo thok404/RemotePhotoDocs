@@ -1,5 +1,5 @@
 ---
-title: 组件目录
+title: Components
 ---
 #### [RemotePhotoManager](RemotePhotoManager.md)
 #### [RemotePhotoGroup](RemotePhotoGroup.md)

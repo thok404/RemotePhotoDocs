@@ -1,9 +1,6 @@
 ---
 title: Quick Start
 ---
-
-# Quick Start
-
 Quick Start does only one thing: **first make a random photo button successfully load remote images in the scene**.
 
 This will not explain too much theory. You can finish the steps first, confirm that it runs successfully, then come back to read other content.
