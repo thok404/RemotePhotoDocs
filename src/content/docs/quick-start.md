@@ -11,7 +11,7 @@ Prepare several direct image links with resolution <=2048 x 2048. Direct links o
 
 Using jpg format and images around 1024 resolution is recommended for better network transmission, storage, and game performance experience
 
-You can search the web to get direct image links, upload your own images to an image host to get direct links, or use a GitHub repository or CloudFlareR2 to create a long-term stable personal image host. Click here to learn more about personal image hosting.
+You can search the web to get direct image links, upload your own images to an image host to get direct links, or use a GitHub repository or CloudFlareR2 to create a long-term stable personal image host. [Click here](self-hosted-image-solution.md) to learn more about personal image hosting.
 
 
 Please use the following versions or higher as much as possible:
@@ -123,4 +123,3 @@ Enter Play Mode and click the button.
 If the configuration is correct, the frames will start loading remote images.
 
 ![](../../assets/images/Pasted%20image%2020260508222815.png)
-
