@@ -1,19 +1,26 @@
 ---
-title: 首页
+title: RemotePhotoSystem
 ---
-# RemotePhotoSystem
-
-相片太多而地图空间不够？为调整UV、材质、贴图的过程感到烦躁？
-试试让相框从互联网上直接下载图片
+Too many photos and not enough map space? Tired of adjusting UVs, materials, and textures?
+Try letting frames download images directly from the internet
 
 
-**RemotePhotoSystem**是一套U#组件，能够储存你的外部图片直链并使用它们创建画廊，这使你可以在VRChat中用少量的相框动态加载你的所有相片。组件还提供了预加载、随机/顺序换图模式、自适应相框比例等功能让体验更流畅。
+**RemotePhotoSystem** is a set of U# components that can store your external image direct links and use them to create a gallery. This lets you dynamically load all your photos in VRChat with a small number of frames. The components also provide preloading, random/sequential photo switching modes, adaptive frame aspect ratios, and other features to make the experience smoother.
 
 
-#### 快速入口
-[快速开始](快速开始.md)
-[安装](安装.md)
-[使用方法](使用方法.md)
-[组件](组件目录.md)
-[网页JSON工具](网页JSON工具.md)
-[常见问题](常见问题.md)
+# Before you start
+
+You need to prepare several direct image URL links yourself. Direct links often end with an image format such as `.jpg`, `.png`, `.gif`, `.webp`
+
+VRChat hard requirements: https://creators.vrchat.com/worlds/udon/image-loading/
+The maximum image resolution is 2048 × 2048 pixels
+One image can be downloaded every five seconds
+The URL must point directly to the image file, and URL redirects are not allowed
+
+
+#### Quick links
+[Quick Start](quick-start.md)
+[Configuration](configuration.md)
+[Components](Components/Components.md)
+[WebTool](webtool.md)
+[Self-hosted Image Solution](self-hosted-image-solution.md)
