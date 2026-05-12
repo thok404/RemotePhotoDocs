@@ -47,12 +47,12 @@ Images currently displayed and images cached by `Preload` have the largest perfo
 | Probe image sizes | Can help determine `Landscape` / `Portrait` |
 | Export Unity JSON | Used by the Manager's `Gallery Config JSON` |
 
-Detailed WebTool documentation can be viewed [here](webtool.md).
+Detailed WebTool documentation can be viewed [here](../webtool/).
 
 Image URLs must meet VRChat image loading requirements. See the official documentation for related limits:  
 https://creators.vrchat.com/worlds/udon/image-loading/
 
-Personal image hosting content can be viewed in detail [here](self-hosted-image-solution.md).
+Personal image hosting content can be viewed in detail [here](../self-hosted-image-solution/).
 
 Each Frame only takes images from the gallery matching its orientation:
 

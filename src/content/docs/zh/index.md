@@ -22,5 +22,5 @@ URL 必须直接指向图像文件，不允许 URL 重定向
 [快速开始](quick-start.md)
 [配置](configuration.md)
 [组件](Components/Components.md)
-[网页工具](webtool.md)
-[自托管图片方案](self-hosted-image-solution.md)
+[网页工具](webtool/)
+[自托管图片方案](self-hosted-image-solution/)

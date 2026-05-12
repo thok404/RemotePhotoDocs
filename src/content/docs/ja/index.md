@@ -22,5 +22,5 @@ URL は画像ファイルを直接指している必要があり、URL リダイ
 [クイックスタート](quick-start.md)
 [設定](configuration.md)
 [コンポーネント](Components/Components.md)
-[Webツール](webtool.md)
-[セルフホスト画像ソリューション](self-hosted-image-solution.md)
+[Webツール](webtool/)
+[セルフホスト画像ソリューション](self-hosted-image-solution/)

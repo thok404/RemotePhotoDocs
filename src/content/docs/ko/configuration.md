@@ -47,12 +47,12 @@ Unity는 메모리 절약을 위해 `url`과 `orientation`만 기록합니다. J
 | 이미지 크기 탐지 | `Landscape` / `Portrait` 판단을 보조할 수 있습니다 |
 | Unity JSON 내보내기 | Manager의 `Gallery Config JSON`에서 사용합니다 |
 
-WebTool 상세 설명은 [여기](webtool.md)에서 볼 수 있습니다.
+WebTool 상세 설명은 [여기](../webtool/)에서 볼 수 있습니다.
 
 이미지 URL은 VRChat 이미지 로딩 요구사항을 충족해야 합니다. 관련 제한은 공식 문서를 참조하세요:  
 https://creators.vrchat.com/worlds/udon/image-loading/
 
-개인 이미지 호스팅 관련 내용은 [여기](self-hosted-image-solution.md)에서 자세히 볼 수 있습니다.
+개인 이미지 호스팅 관련 내용은 [여기](../self-hosted-image-solution/)에서 자세히 볼 수 있습니다.
 
 각 Frame은 해당 방향의 갤러리에서만 이미지를 가져옵니다:
 

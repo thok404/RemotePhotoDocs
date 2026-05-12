@@ -47,12 +47,12 @@ Unity 只记录 `url` 和 `orientation` 以节省内存。JSON 中的 `id`、`ta
 | 探测图片尺寸 | 可以辅助判断 `Landscape` / `Portrait` |
 | 导出 Unity JSON | 供 Manager 的 `Gallery Config JSON` 使用 |
 
-WebTool 详细文档可以在[这里](webtool.md)查看。
+WebTool 详细文档可以在[这里](../webtool/)查看。
 
 图片 URL 必须满足 VRChat 图片加载要求。相关限制见官方文档：  
 https://creators.vrchat.com/worlds/udon/image-loading/
 
-个人图床相关内容可以在[这里](self-hosted-image-solution.md)详细查看。
+个人图床相关内容可以在[这里](../self-hosted-image-solution/)详细查看。
 
 每个 Frame 只从匹配自身方向的图库取图：
 

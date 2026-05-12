@@ -22,5 +22,5 @@ The URL must point directly to the image file, and URL redirects are not allowed
 [Quick Start](quick-start.md)
 [Configuration](configuration.md)
 [Components](Components/Components.md)
-[WebTool](webtool.md)
-[Self-hosted Image Solution](self-hosted-image-solution.md)
+[WebTool](webtool/)
+[Self-hosted Image Solution](self-hosted-image-solution/)
