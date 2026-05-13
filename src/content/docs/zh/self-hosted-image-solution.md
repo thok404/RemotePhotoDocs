@@ -78,6 +78,8 @@ https://github.com/yy4382/s3-image-port
 
 你可以阅读简洁的 S3 Image Port 官方指引： https://imageport.app/en/docs/for-cloudflare-r2
 
+> **重要勘误：** API Token 权限需要选择 **Admin Read & Write**，不是 **Object Read & Write**。
+
 也可以阅读下面的图文教程
 ## 5. 配置 R2 CORS
 
@@ -113,9 +115,9 @@ https://github.com/yy4382/s3-image-port
 ![image-09](../../../assets/images/Pasted%20image%2020260512054851.png)
 回到 R2 的 **Overview** 面板，找到 **Account Details → API Tokens → Manage**，根据你的需要选择 Account/User token。这个案例演示点击 **Create Account API token**。
 
-![image-10](../../../assets/images/Pasted%20image%2020260512055610.png)
+![](../../../assets/images/Pasted%20image%2020260513183516.png)
 
-给它一个 **Token name**。Premissions 选择 **Object Read & Write**。Specify bucket 可以应用到所有 buckets，也可以只应用到你指定的一个。TTL 根据你的偏好设置。这个案例使用 **Forever**。Client IP Address Filtering 留空，然后点击 **Create Account/User API Token**
+给它一个 **Token name**。Premissions 选择 **Admin Read & Write**。TTL 根据你的偏好设置。这个案例使用 **Forever**。Client IP Address Filtering 留空，然后点击 **Create Account/User API Token**
 
 
 > 在你完成 S3 Image Port 配置或记下所有 Keys 之前，不要关闭这个页面

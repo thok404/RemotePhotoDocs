@@ -78,6 +78,8 @@ https://github.com/yy4382/s3-image-port
 
 간단한 S3 Image Port 공식 안내 문서를 볼 수도 있습니다 https://imageport.app/en/docs/for-cloudflare-r2
 
+> **중요 정정:** API Token 권한은 **Object Read & Write**가 아니라 **Admin Read & Write**를 선택해야 합니다.
+
 아래의 그림 튜토리얼도 볼 수 있습니다
 ## 5. R2 CORS 설정
 
@@ -113,9 +115,9 @@ https://github.com/yy4382/s3-image-port
 
 R2의 **Overview** 패널로 돌아가 **Account Details → API Tokens → Manage**를 찾고, 필요에 따라 Account/User 토큰을 선택합니다. 사례에서는 **Create Account API token**을 클릭하는 방식으로 설명합니다.
 
-![image-10](../../../assets/images/Pasted%20image%2020260512055610.png)
+![](../../../assets/images/Pasted%20image%2020260513183516.png)
 
-**Token name**을 정하고, Premissions는 **Object Read & Write**를 선택합니다. Specify bucket은 전체 bucket에 적용할 수도 있고, 지정한 것에만 적용할 수도 있습니다. TTL은 취향에 따라 설정하며, 이번 사례에서는 **Forever**를 사용합니다. Client IP Address Filtering은 비워 두고 **Create Account/User API Token**을 클릭합니다
+**Token name**을 정하고, Premissions는 **Admin Read & Write**를 선택합니다. TTL은 취향에 따라 설정하며, 이번 사례에서는 **Forever**를 사용합니다. Client IP Address Filtering은 비워 두고 **Create Account/User API Token**을 클릭합니다
 
 > S3 Image Port 설정을 완료했거나 모든 Key를 기록하기 전에는 이 페이지를 닫지 마세요
 

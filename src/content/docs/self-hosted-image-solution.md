@@ -78,6 +78,8 @@ As of the completion of this document, S3 Image Port has not added the **bulk co
 
 You can read the concise official S3 Image Port guide: https://imageport.app/en/docs/for-cloudflare-r2
 
+> **Important erratum:** The API Token permission should be **Admin Read & Write**, not **Object Read & Write**.
+
 You can also read the image-and-text tutorial below
 ## 5. Configure R2 CORS
 
@@ -113,9 +115,9 @@ Then click **Save**. This allows your R2 to accept requests from **imageport.tho
 ![image-09](../../assets/images/Pasted%20image%2020260512054851.png)
 Return to R2's **Overview** panel, find **Account Details → API Tokens → Manage**, choose Account/User token according to your needs. This case demonstrates clicking **Create Account API token**.
 
-![image-10](../../assets/images/Pasted%20image%2020260512055610.png)
 
-Give it a **Token name**. For Premissions, choose **Object Read & Write**. Specify bucket can be applied to all buckets or only the one you specify. Set TTL according to your preference. This case uses **Forever**. Leave Client IP Address Filtering empty, then click **Create Account/User API Token**
+![](../../assets/images/Pasted%20image%2020260513183516.png)
+Give it a **Token name**. For Premissions, choose **Admin Read & Write**. Set TTL according to your preference. This case uses **Forever**. Leave Client IP Address Filtering empty, then click **Create Account/User API Token**
 
 
 > Do not close this page unless you have completed the S3 Image Port configuration or written down all Keys
